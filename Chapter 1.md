@@ -17,4 +17,5 @@ apakah produk tersebut mudah digunakan atau tidak.
 
 (1) Voice Mail System
 Bayangkan sekenario berikut. Kau akan menginap di hotel selama seminggu. Kau menyadari bahwasanya cellphone milikmu ketinggalan dirumah
-mau tidak mau, kau harus menggunakan fasilitas hotel. Pada tiap ruangan hotel terdapat sistem voice mail. 
+mau tidak mau, kau harus menggunakan fasilitas hotel. Pada tiap ruangan hotel terdapat sistem voice mail. Untuk mengetahui jika kau memiliki pesan,
+kau harus mengambil handset dan mendengarkan suara nadanya. Jika berbunyi 'beep,beep,beep' maka kau memiliki pesan.
