@@ -15,4 +15,6 @@ Perhatian utama pada desain interaksi adalah mengembangkan produk interaktif yan
 Langkah awal untuk mengetahui bagus tidak nya suatu desain adalah dengan membandingkan nya. Dengan mengidentifikasi kelebihan dan kelemahan suatu produk, kita bisa mengetahui
 apakah produk tersebut mudah digunakan atau tidak.
 
-(1)
+(1) Voice Mail System
+Bayangkan sekenario berikut. Kau akan menginap di hotel selama seminggu. Kau menyadari bahwasanya cellphone milikmu ketinggalan dirumah
+mau tidak mau, kau harus menggunakan fasilitas hotel. Pada tiap ruangan hotel terdapat sistem voice mail. 
