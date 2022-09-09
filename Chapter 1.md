@@ -19,3 +19,9 @@ apakah produk tersebut mudah digunakan atau tidak.
 Bayangkan sekenario berikut. Kau akan menginap di hotel selama seminggu. Kau menyadari bahwasanya cellphone milikmu ketinggalan dirumah
 mau tidak mau, kau harus menggunakan fasilitas hotel. Pada tiap ruangan hotel terdapat sistem voice mail. Untuk mengetahui jika kau memiliki pesan,
 kau harus mengambil handset dan mendengarkan suara nadanya. Jika berbunyi 'beep,beep,beep' maka kau memiliki pesan.
+Untuk mengetahui cara mengakses pesan, kau harus membaca set intruksi di samping telepon. Kau membaca tahapan penggunaan nya :
+   '1. Tekan 41.'
+   Sistemnya merespon:'Anda telah menghubungi voice message center Hotel Sunny. Tolong masukkan nomor ruangan yang ingin anda hubunngi'
+   Kau menunggu instruksi untuk mendengarkan recorded message. Tapi tidak ada instruksi lebih lanjut dari telepon. Kau memperhatikan lagi instruksi nya :
+   '2. Tekan*, nomor ruangan , dan #.'
+   Kau melakukan sesuai instruksi dan sistemnya merespon
