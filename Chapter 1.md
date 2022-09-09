@@ -1,5 +1,5 @@
 # SistemInteraksi
-#.1 Perkenalan
+#1 Perkenalan
 Berapa banyak interface yang kita gunakan sehari-hari ? Coba pikirkan, mulai dari smartphone, tablet, komputer dan seterusnya. Sekarang coba pikirkan lagi 
 semudah apa alat-alat tadi ketika digunakan? sebagian ada yang mudah seperti Ipod. Ada juga yang cukup sulit seperti mesin tiket. Mengapa ada perbedaan ?
 
@@ -10,7 +10,7 @@ Dikarenakan tujuan awal produksi nya adalah agar lebih efektif ketika sedang dig
 Tujuan utama dari desain interaksi adalah untuk mengurangi aspek negatif(frustrasi,rasa jengkel) dari pengguna dan meningkat kan aspek positif(kemudahan).
 Pada bab ini kita akan mempelajari tentang apa itu desain interaksi. Kita juga akan mempelajari tentang desain yang baik dan desain yang buruk.
 
-#.2 Desain yang baik dan buruk
+#2 Desain yang baik dan buruk
 Perhatian utama pada desain interaksi adalah mengembangkan produk interaktif yang mudah digunakan. Dengan kata lain, mudah untuk dipelajari.
 Langkah awal untuk mengetahui bagus tidak nya suatu desain adalah dengan membandingkan nya. Dengan mengidentifikasi kelebihan dan kelemahan suatu produk, kita bisa mengetahui
 apakah produk tersebut mudah digunakan atau tidak.
