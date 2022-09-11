@@ -48,4 +48,4 @@ Akan tetapi mesin marble answering tidak bisa digunakan ditempat umum. Beberapa 
 - Karena desain nya yang cukup elegan, mesin ini sangat mudah untuk dicuri
 - Tidak cocok digunakan di perhotelan karena mesin nya harus mengenali si pengguna terlebih dahulu
 
-mesin ini lebih cocok digunakan di rumah,dengan catatan di tempat yang tidak terjangkau oleh anak-anak
+mesin ini lebih cocok digunakan di rumah,dengan catatan diletakkan ditempat yang tidak terjangkau oleh anak-anak
