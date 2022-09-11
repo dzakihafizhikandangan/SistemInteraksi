@@ -43,3 +43,9 @@ Apa yang membedakan mesin marbel answeing dengan sistem voice mail:
 - Aestetik dan mudah digunakan
 - Hanyar memerlukan satu tahap untuk melakukan tugas utama
 - sederhana akan tetapi desain nya elegan
+
+Akan tetapi mesin marble answering tidak bisa digunakan ditempat umum. Beberapa alasan diantaranya nya adalah:
+- Karena desain nya yang cukup elegan, mesin ini sangat mudah untuk dicuri
+- Tidak cocok digunakan di perhotelan karena mesin nya harus mengenali si pengguna terlebih dahulu
+
+mesin ini lebih cocok digunakan di rumah,dengan catatan di tempat yang tidak terjangkau oleh anak-anak
