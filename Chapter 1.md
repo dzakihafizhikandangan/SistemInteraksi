@@ -36,4 +36,10 @@ Apa permasalahan pada sistem voice mail diatas ?
 - sulit digunakan
 - tidak jelas apa yang harus dilakukan
 
-(2) Remotre Control device
+Sekarang coba lihat mesin marble answering pada link berikut :  http://vimeo.com/19930744
+
+Apa yang membedakan mesin marbel answeing dengan sistem voice mail:
+- Menggunakan benda yang familiar untuk memberitahukan secara visual berapa banyak pesan yang diterima
+- Aestetik dan mudah digunakan
+- Hanyar memerlukan satu tahap untuk melakukan tugas utama
+- sederhana akan tetapi desain nya elegan
