@@ -59,3 +59,12 @@ mesin ini lebih cocok digunakan di rumah,dengan catatan diletakkan ditempat yang
 Tiap hiburan rumahan seperti TV, smartTV, music system, dan lain nya pasti memiliki remote control.
 remote satu dengan yang lain nya berbeda-beda dalam hal cara kerja nya dan desain nya. Banyak yang mendesain tombol remotenya multicolored, dan double-labelled
 yang terkadang posisi nya tidak beraturan antara tombol satu dengan yang lain nya.
+
+Berbanding terbalik dengan desain remot TiVo. Tombolnya besar, labelnya jelas, dan tersusun secara logika sehingga mudah digunakan. Desain fisiknya juga
+disesuaikan dengan telapak tangan.
+Bagaimana bisa untuk membuat remote yang nyaman ketika digunakan sedangkan produk yang cenderung membingungkan ?
+Jawaban nya sederhana : TiVo meluangkan waktu untuk melaksanakan prosedur user-centered. Bahkan, director dari desain produk nya meminta feedback dari pengguna
+agar dapat memaksimal kan desain nya. Oleh karena itu produk remote TiVo sangat mudah dan nyaman ketika digunakan.
+
+# 1.2.1 Apa Yang Harus Di Desain
+
