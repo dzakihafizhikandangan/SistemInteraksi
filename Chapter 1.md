@@ -38,6 +38,8 @@ Apa permasalahan pada sistem voice mail diatas ?
 
 Sekarang coba lihat mesin marble answering pada link berikut :  http://vimeo.com/19930744
 
+![marble machine](https://user-images.githubusercontent.com/112626822/189508610-d0bf34e0-5d4a-489e-90a8-d951bf952d19.JPG)
+
 Apa yang membedakan mesin marbel answeing dengan sistem voice mail:
 - Menggunakan benda yang familiar untuk memberitahukan secara visual berapa banyak pesan yang diterima
 - Aestetik dan mudah digunakan
@@ -49,3 +51,6 @@ Akan tetapi mesin marble answering tidak bisa digunakan ditempat umum. Beberapa 
 - Tidak cocok digunakan di perhotelan karena mesin nya harus mengenali si pengguna terlebih dahulu
 
 mesin ini lebih cocok digunakan di rumah,dengan catatan diletakkan ditempat yang tidak terjangkau oleh anak-anak
+
+(2) Remote Control
+
