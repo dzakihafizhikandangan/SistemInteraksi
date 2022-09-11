@@ -56,3 +56,6 @@ mesin ini lebih cocok digunakan di rumah,dengan catatan diletakkan ditempat yang
 
 (2) Remote Control
 
+Tiap hiburan rumahan seperti TV, smartTV, music system, dan lain nya pasti memiliki remote control.
+remote satu dengan yang lain nya berbeda-beda dalam hal cara kerja nya dan desain nya. Banyak yang mendesain tombol remotenya multicolored, dan double-labelled
+yang terkadang posisi nya tidak beraturan antara tombol satu dengan yang lain nya.
