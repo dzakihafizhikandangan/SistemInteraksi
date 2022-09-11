@@ -16,6 +16,7 @@ Langkah awal untuk mengetahui bagus tidak nya suatu desain adalah dengan memband
 apakah produk tersebut mudah digunakan atau tidak.
 
 (1) Voice Mail System
+
 Bayangkan sekenario berikut. Kau akan menginap di hotel selama seminggu. Kau menyadari bahwasanya HP milikmu ketinggalan dirumah
 mau tidak mau, kau harus menggunakan fasilitas hotel. Pada tiap ruangan hotel terdapat sistem voice mail. Untuk mengetahui jika kau memiliki pesan,
 kau harus mengambil handset dan mendengarkan suara nadanya. Jika berbunyi 'beep,beep,beep' maka kau memiliki pesan.
