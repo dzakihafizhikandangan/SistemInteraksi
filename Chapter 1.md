@@ -16,7 +16,7 @@ Langkah awal untuk mengetahui bagus tidak nya suatu desain adalah dengan memband
 apakah produk tersebut mudah digunakan atau tidak.
 
 (1) Voice Mail System
-Bayangkan sekenario berikut. Kau akan menginap di hotel selama seminggu. Kau menyadari bahwasanya cellphone milikmu ketinggalan dirumah
+Bayangkan sekenario berikut. Kau akan menginap di hotel selama seminggu. Kau menyadari bahwasanya HP milikmu ketinggalan dirumah
 mau tidak mau, kau harus menggunakan fasilitas hotel. Pada tiap ruangan hotel terdapat sistem voice mail. Untuk mengetahui jika kau memiliki pesan,
 kau harus mengambil handset dan mendengarkan suara nadanya. Jika berbunyi 'beep,beep,beep' maka kau memiliki pesan.
 Untuk mengetahui cara mengakses pesan, kau harus membaca set intruksi di samping telepon. Kau membaca tahapan penggunaan nya :
@@ -27,3 +27,12 @@ Kau menunggu instruksi untuk mendengarkan recorded message. Tapi tidak ada instr
 Kau melakukan sesuai instruksi dan sistemnya merespon:'Anda telah terhubung dengan kamar 106. Untuk mengirimkan pesan, masukkan password anda'
 
 Kau memasukkan nomor ruangan dan sistemnya merespon :'Tolong masukkan nomor kamar dan password anda '
+Kau tidak tahu passwordnya. Kau kira passwordnya sama dengan nomor kamar . Pada titik ini kau menyerah dan menelpon resepsionis. Resepsionis
+itu menjelaskan prosedur yang tepat untuk merekam dan menerima pesan. Ternyata untuk mengirimkan pesan memerlukan 6 langkah dan untuk menerima pesan memerlukan 5 langkah. Kau pergil keluar untuk beli HP baru.
+Apa permasalahan pada sistem voice mail diatas ?
+- membingungkan
+- tidak efisien
+- sulit digunakan
+- tidak jelas apa yang harus dilakukan
+
+(2) Remotre Control device
