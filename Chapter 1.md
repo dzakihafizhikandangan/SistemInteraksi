@@ -25,4 +25,5 @@ Sistemnya merespon:'Anda telah menghubungi voice message center Hotel Sunny. Tol
 Kau menunggu instruksi untuk mendengarkan recorded message. Tapi tidak ada instruksi lebih lanjut dari telepon. Kau memperhatikan lagi instruksi nya :
 - '2. Tekan*, nomor ruangan , dan #.'
 Kau melakukan sesuai instruksi dan sistemnya merespon:'Anda telah terhubung dengan kamar 106. Untuk mengirimkan pesan, masukkan password anda'
+
 Kau memasukkan nomor ruangan dan sistemnya merespon :'Tolong masukkan nomor kamar dan password anda '
