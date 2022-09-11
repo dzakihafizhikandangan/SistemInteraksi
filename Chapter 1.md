@@ -1,4 +1,6 @@
 # Chapter 1
+![Capture](https://user-images.githubusercontent.com/112626822/189508713-08197286-c963-4d5c-95e4-cc4718041bf0.JPG)
+
 # 1.1 Perkenalan
 Berapa banyak interface yang kita gunakan sehari-hari ? Coba pikirkan, mulai dari smartphone, tablet, komputer dan seterusnya. Sekarang coba pikirkan lagi 
 semudah apa alat-alat tadi ketika digunakan? sebagian ada yang mudah seperti Ipod. Ada juga yang cukup sulit seperti mesin tiket. Mengapa ada perbedaan ?
