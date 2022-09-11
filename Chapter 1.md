@@ -67,4 +67,3 @@ Jawaban nya sederhana : TiVo meluangkan waktu untuk melaksanakan prosedur user-c
 agar dapat memaksimal kan desain nya. Oleh karena itu produk remote TiVo sangat mudah dan nyaman ketika digunakan.
 
 # 1.2.1 Apa Yang Harus Di Desain
-
